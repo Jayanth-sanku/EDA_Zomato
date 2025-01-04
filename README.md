@@ -1,5 +1,7 @@
 ## **ZOMATO DATASET OBSERVATIONS**
 
+[View PDF Version Of My Analysis](https://github.com/Jayanth-sanku/EDA_Zomato/blob/main/ZomatoEDA.pdf)
+
 ## **1. Missing Values**
 ### - The only missing values in the dataset are found in the 'cuisines' column, with 9 missing entries.
 ### - Other columns like 'restaurant name', 'country', 'city', 'average cost for two', and 'rating' do not have missing data.
@@ -30,3 +32,4 @@
 ## **6. Rating Analysis**
 ### - The 'rating' column is a key metric for understanding restaurant quality.
 ### - Further analysis of the 'rating' column across different cities and countries may reveal patterns in customer preferences.
+
